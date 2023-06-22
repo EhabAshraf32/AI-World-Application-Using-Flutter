@@ -9,6 +9,7 @@ Implemented a Sentiment Analysis module that analyzes the sentiment of given tex
 : Integrated a Neural Network module that predicts the content of landscape photos. Userscan input landscape images, and the application utilizes CNN (Convolutional Neural Network) models to predictthe objects or scenes present in the photos. This feature enhances user experience by automatically analyzingand labeling the contents of landscape images.
 ## 3-Machine Learning for Restaurant Reviews
 : Developed a Machine Learning module specifically designed foranalyzing restaurant reviews. By leveraging machine learning algorithms, the application predicts whether agiven review is positive or negative, indicating the sentiment associated with the review. This functionalityallows users to gain insights into the overall sentiment of the reviews and make informed decisions about theirrestaurant choices.
+## Key Features:
 · Integration of machine learning, CNN, and NLP models.
 · Utilization of Flask in Flutter to establish seamless connections between the models and the application.
 · Sentiment Analysis department with visual flow charts showcasing sentiment ratios.
